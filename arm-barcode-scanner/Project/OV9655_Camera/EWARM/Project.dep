@@ -1,0 +1,3982 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2010596692</fileChecksum>
+  <configuration>
+    <name>Discover-More</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_cryp.h</file>
+      <file>$PROJ_DIR$\..\src\usb_mem\usbd_usr_mem.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_msc_core.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_cdc_vcp.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_usart.o</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\usbd_desc_flash.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Result.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_req.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\LuminanceSource.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\GenericGF.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4_discovery_lis302dl.o</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\app.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\CodaBarReader.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Exception.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\BinaryBitmap.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_msc_bot.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\BitMatrix.o</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dbgmcu.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Decoder.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\DataBlock.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_exti.o</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ChecksumException.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Str.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\FormatException.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\CharacterSetECI.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\BitArrayIO.pbi</file>
+      <file>$PROJ_DIR$\..\src\usblib\usb_dcd.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_dcmi.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usb_bsp_flash.o</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\inc\usbd_msc_scsi.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xlocinfo</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xdebug</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\typeinfo</file>
+      <file>$TOOLKIT_DIR$\inc\c\cctype</file>
+      <file>$TOOLKIT_DIR$\inc\c\ctype.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtls.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xmtx.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_msc_scsi.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\UPCAReader.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_cdc_vcp.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_usr_mem.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\OneDResultPoint.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>$PROJ_DIR$\..\src\usblib\usb_core.c</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\usbd_desc_flash.c</file>
+      <file>$PROJ_DIR$\..\src\usblib\usb_bsp.c</file>
+      <file>$PROJ_DIR$\..\src\usblib\usb_core.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\LuminanceSource.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\BitMatrix.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\main_bridge.o</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_tim.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\FinderPattern.o</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_syscfg.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\main_bridge.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\FormatInformation.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_pwr.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\DetectorResult.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\BitArray.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_ioreq.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery_lcd.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Reader.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_msc_bot.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\app.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\MultiFormatReader.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usb_core.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Code93Reader.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\UPCEANReader.pbi</file>
+      <file>$PROJ_DIR$\..\src\usb_com\usbd_desc.c</file>
+      <file>$PROJ_DIR$\..\src\usb_com\usb_bsp.c</file>
+      <file>$PROJ_DIR$\..\src\usb_com\usbd_usr.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_storage_msd.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usb_dcd.o</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\limits.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_storage_msd.o</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\usb_bsp_flash.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\MultiFormatUPCEANReader.o</file>
+      <file>$PROJ_DIR$\..\src\zxing\InvertedLuminanceSource.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cstring</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\stdexcept</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\exception</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xstddef</file>
+      <file>$TOOLKIT_DIR$\inc\c\cstddef</file>
+      <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xstring</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xmemory</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\new</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xutility</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\utility</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\iosfwd</file>
+      <file>$TOOLKIT_DIR$\inc\c\cwchar</file>
+      <file>$TOOLKIT_DIR$\inc\c\wchar.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtgmath.h</file>
+      <file>$PROJ_DIR$\..\src\usb_mem\usbd_desc_mem.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32fxxx_it.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dma.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\climits</file>
+      <file>$TOOLKIT_DIR$\inc\c\cstdio</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\streambuf</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\CMSIS\Include\core_cmFunc.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xiosbase</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xlocale</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\inc\usbd_msc_bot.h</file>
+      <file>$PROJ_DIR$\..\inc\main.h</file>
+      <file>$PROJ_DIR$\..\inc\stm32f4xx_it.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\inc\usbd_msc_data.h</file>
+      <file>$PROJ_DIR$\..\inc\dcmi_ov9655.h</file>
+      <file>$PROJ_DIR$\..\src\usblib\usbd_cdc_core.c</file>
+      <file>$PROJ_DIR$\Discover-More\List\Project.map</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocalelist.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\CharacterSetECI.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\CodaBarReader.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\FastHybridBinarizer.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_desc_flash.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\FormatException.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4_discovery_lcd.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_syscfg.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Code128Reader.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ITFReader.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Code39Reader.pbi</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\misc.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Core\inc\usbd_usr.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\decoder\Mode.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\detector\AlignmentPattern.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\detector\AlignmentPattern.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\detector\AlignmentPatternFinder.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\detector\AlignmentPatternFinder.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\detector\Detector.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\detector\Detector.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\detector\FinderPattern.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\detector\FinderPattern.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\detector\FinderPatternFinder.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\detector\FinderPatternFinder.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\detector\FinderPatternInfo.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\detector\FinderPatternInfo.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\ErrorCorrectionLevel.cpp</file>
+      <file>$PROJ_DIR$\..\src\usb_com\usbd_conf_com.h</file>
+      <file>$PROJ_DIR$\..\src\usb_com\usbd_desc_com.c</file>
+      <file>$PROJ_DIR$\..\src\usb_com\usbd_desc_com.h</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\usb_bsp.c</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\usbd_desc.c</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\usbd_desc.h</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\usbd_storage_msd.c</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\usbd_usr.c</file>
+      <file>$PROJ_DIR$\..\src\usb_mem\usbd_desc_mem.h</file>
+      <file>$PROJ_DIR$\..\src\usb_mem\app.c</file>
+      <file>$PROJ_DIR$\..\src\usb_mem\usb_conf_mem.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_sdio.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ChecksumException.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\FormatInformation.o</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_OTG_Driver\inc\usb_bsp.h</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\usbd_conf_flash.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\GreyscaleRotatedLuminanceSource.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\..\src\usb_mem\usbd_desc.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_msc_core.pbi</file>
+      <file>$PROJ_DIR$\..\src\usblib\usbd_ioreq.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\BarcodeFormat.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_usart.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\BitArray.o</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_spi.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\clocale</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\ErrorCorrectionLevel.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\FormatInformation.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\FormatInformation.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\QRCodeReader.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\QRCodeReader.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\Version.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\Version.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\BarcodeFormat.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\BarcodeFormat.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\Binarizer.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\Binarizer.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\BinaryBitmap.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\BinaryBitmap.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\ChecksumException.cpp</file>
+      <file>$PROJ_DIR$\..\src\usblib\usbd_ioreq.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\GenericGF.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_usr_flash.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ReedSolomonDecoder.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\FinderPatternInfo.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_dma.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4_discovery_lcd.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\BarcodeFormat.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\system_stm32f4xx.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\GridSampler.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ReedSolomonException.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4_discovery.o</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\FatFs_vR0.08a\diskio.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_dcmi.o</file>
+      <file>$PROJ_DIR$\..\src\usblib\usb_regs.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_gpio.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\system_stm32f4xx.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\OneDReader.o</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_OTG_Driver\inc\usb_regs.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_usr.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_req.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\DecodeHints.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_spi.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\WhiteRectangleDetector.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\AlignmentPattern.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery_lis302dl.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Reader.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Decoder.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\QRCodeReader.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\GenericGFPoly.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_cdc_core.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_storage_template.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ImageReaderSource.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\GlobalHistogramBinarizer.o</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_hash.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Lib\IAR\iar_cortexM4lf_math.a</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tlv.a</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\zxing_arm_cam_lcd\Project\OV9655_Camera\EWARM\stm32f4xx_flash.icf</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\src\usbd_msc_bot.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\cdc\src\usbd_cdc_core.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\src\usbd_msc_core.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\src\usbd_msc_data.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\FinderPatternInfo.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\WhiteRectangleDetector.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32fxxx_it.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\BitArrayIO.o</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\usbd_conf.h</file>
+      <file>$PROJ_DIR$\..\src\usblib\usbd_req.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ResultIO.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\cfloat</file>
+      <file>$TOOLKIT_DIR$\inc\c\float.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\vector</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\string</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\memory</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\map</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xtree</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\functional</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmath</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_storage_template.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\lcd_log.pbi</file>
+      <file>$PROJ_DIR$\..\src\usb_com\usbd_desc.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\DecodedBitStreamParser.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_core.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\EAN13Reader.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Core\inc\usbd_def.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_tim.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ff.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\OneDReader.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\AlignmentPatternFinder.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_tim.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\IllegalArgumentException.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ff.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_rcc.pbi</file>
+      <file>$PROJ_DIR$\..\inc\bmp.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_ioreq.o</file>
+      <file>$PROJ_DIR$\..\src\usblib\usbd_def.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_msc_data.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ITFReader.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_sdio.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_fsmc.o</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Core\inc\usbd_req.h</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\usb_conf_flash.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\ResultPointCallback.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\ResultPointCallback.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\ZXing.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\src\usbd_msc_scsi.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_desc_com.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Core\src\usbd_core.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Core\src\usbd_ioreq.c</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery_sdio_sd.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dcmi.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_exti.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_syscfg.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c</file>
+      <file>$PROJ_DIR$\..\src\bmp.c</file>
+      <file>$PROJ_DIR$\..\src\dcmi_ov9655.c</file>
+      <file>$PROJ_DIR$\..\src\image.s</file>
+      <file>$PROJ_DIR$\..\src\ImageReaderSource.cpp</file>
+      <file>$PROJ_DIR$\..\src\ImageReaderSource.h</file>
+      <file>$PROJ_DIR$\..\src\main.c</file>
+      <file>$PROJ_DIR$\..\src\main_bridge.cpp</file>
+      <file>$PROJ_DIR$\..\src\stm32f4xx_it.c</file>
+      <file>$PROJ_DIR$\..\src\system_stm32f4xx.c</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\detector\MathUtils.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\detector\MonochromeRectangleDetector.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\detector\MonochromeRectangleDetector.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\detector\WhiteRectangleDetector.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\EAN8Reader.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\ITFReader.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\ITFReader.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\MultiFormatOneDReader.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\MultiFormatOneDReader.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\MultiFormatUPCEANReader.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\MultiFormatUPCEANReader.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\OneDReader.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\OneDReader.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\OneDResultPoint.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\OneDResultPoint.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\UPCAReader.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\UPCAReader.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\UPCEANReader.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\GreyscaleLuminanceSource.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\GreyscaleLuminanceSource.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\GreyscaleRotatedLuminanceSource.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\GreyscaleRotatedLuminanceSource.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\GridSampler.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\GridSampler.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\HybridBinarizer.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\HybridBinarizer.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\IllegalArgumentException.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\IllegalArgumentException.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\PerspectiveTransform.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\PerspectiveTransform.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\Str.cpp</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usb_bsp.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\DataBlock.o</file>
+      <file>$PROJ_DIR$\..\src\usb_mem\usbd_storage_msd.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\GreyscaleRotatedLuminanceSource.pbi</file>
+      <file>$PROJ_DIR$\..\src\usblib\usb_conf.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Detector.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\MultiFormatOneDReader.o</file>
+      <file>$PROJ_DIR$\..\src\usb_mem\usbd_desc.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usb_bsp_mem.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\UPCEANReader.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ResultIO.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\MultiFormatUPCEANReader.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\DataMask.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Str.o</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h</file>
+      <file>$PROJ_DIR$\..\src\usblib\usb_dcd_int.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\StringUtils.o</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_wwdg.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usb_dcd_int.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_fsmc.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\CMSIS\Include\core_cm4_simd.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rtc.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\HybridBinarizer.o</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\lcd_log.c</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\system_stm32f4xx.c</file>
+      <file>$PROJ_DIR$\..\src\usblib\usbd_conf.h</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\lcd_log_conf.h</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\lcd_log.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\detector\WhiteRectangleDetector.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\reedsolomon\GenericGF.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\reedsolomon\GenericGFPoly.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\reedsolomon\GenericGF.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\reedsolomon\GenericGFPoly.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\reedsolomon\ReedSolomonDecoder.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\reedsolomon\ReedSolomonException.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\reedsolomon\ReedSolomonDecoder.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\reedsolomon\ReedSolomonException.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\Array.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\BitArray.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\BitArray.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\BitArrayIO.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\BitMatrix.cpp</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_i2c.pbi</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm4.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usb_dcd_int.pbi</file>
+      <file>$PROJ_DIR$\..\src\usblib\usbd_req.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\DecoderResult.pbi</file>
+      <file>$PROJ_DIR$\..\src\usblib\usb_defines.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\image.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_i2c.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_exti.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\QRCodeReader.o</file>
+      <file>$PROJ_DIR$\..\src\usb_mem\usbd_usr.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\EAN13Reader.o</file>
+      <file>$PROJ_DIR$\..\src\usblib\usbd_core.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Source\Templates\iar\startup_stm32f4xx.s</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\FatFs_vR0.08a\ff.c</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\FatFs_vR0.08a\diskio.c</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery.c</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery_lcd.c</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery_lis302dl.c</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\stm32fxxx_it.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_OTG_Driver\inc\usb_core.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\inc\usbd_msc_core.h</file>
+      <file>$PROJ_DIR$\..\src\usblib\usbd_usr.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_OTG_Driver\inc\usb_dcd.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usb_bsp.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\PerspectiveTransform.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_msc_scsi.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_gpio.o</file>
+      <file>$PROJ_DIR$\..\src\usb_mem\lcd_log_conf.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dac.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_crc.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usb_core.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_usr_flash.pbi</file>
+      <file>$PROJ_DIR$\..\src\zxing\Reader.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\ReaderException.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\Result.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\Result.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\ResultIO.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\ResultPoint.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\ResultPoint.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ymath.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ErrorCorrectionLevel.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4_discovery_sdio_sd.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Binarizer.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\BinaryBitmap.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_can.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\MultiFormatReader.o</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_OTG_Driver\inc\usb_defines.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\inc\usbd_msc_mem.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4_discovery.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+      <file>$PROJ_DIR$\..\src\usb_mem\usb_bsp_mem.c</file>
+      <file>$PROJ_DIR$\..\src\usb_mem\usb_bsp.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\DecodeHints.o</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\usbd_usr_flash.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\src\usbd_storage_template.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_desc_flash.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Detector.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\BitMatrixParser.o</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\FatFs_vR0.08a\ff.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ResultPoint.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\AlignmentPatternFinder.o</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\fonts.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Version.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_i2c.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rng.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\GlobalHistogramBinarizer.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\startup_stm32f4xx.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\misc.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\FatFs_vR0.08a\integer.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\PerspectiveTransform.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\bmp.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Mode.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\FinderPattern.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\main.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Project.pbd</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_spi.o</file>
+      <file>$PROJ_DIR$\..\src\usblib\usbd_cdc_vcp.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\limits</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\CMSIS\Include\core_cm4.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\iostream</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\istream</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\ostream</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\ios</file>
+      <file>$PROJ_DIR$\..\src\usb_com\lcd_log_conf.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\AlignmentPattern.o</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\FatFs_vR0.08a\ffconf.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\UPCAReader.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_usr.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\OneDResultPoint.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\GenericGFPoly.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Core\inc\usbd_core.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_OTG_Driver\src\usb_dcd_int.c</file>
+      <file>$PROJ_DIR$\..\src\usb_com\usb_conf_com.h</file>
+      <file>$PROJ_DIR$\..\src\usb_com\usbd_cdc_vcp.c</file>
+      <file>$PROJ_DIR$\..\src\usb_com\usbd_cdc_vcp.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xlocnum</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Core\src\usbd_req.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_OTG_Driver\src\usb_core.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_OTG_Driver\src\usb_dcd.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\cstdlib</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_desc_mem.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\FinderPatternFinder.o</file>
+      <file>$PROJ_DIR$\..\src\zxing\ChecksumException.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\DecodeHints.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\DecodeHints.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\Exception.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\Exception.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\FormatException.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\FormatException.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\IllegalStateException.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\LuminanceSource.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\LuminanceSource.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\MultiFormatReader.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\MultiFormatReader.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\NotFoundException.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\Reader.cpp</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_exti.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usb_bsp_flash.pbi</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm4_simd.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\locale.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale_lconv.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ctime</file>
+      <file>$TOOLKIT_DIR$\inc\c\time.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\UPCEANReader.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\UPCEReader.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\UPCEReader.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\decoder\BitMatrixParser.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\decoder\BitMatrixParser.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\decoder\DataBlock.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\decoder\DataBlock.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\decoder\DataMask.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\decoder\DataMask.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\decoder\DecodedBitStreamParser.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\decoder\Decoder.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\decoder\DecodedBitStreamParser.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\decoder\Decoder.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\qrcode\decoder\Mode.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\Str.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\StringUtils.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\StringUtils.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\CodaBarReader.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\CodaBarReader.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\Code128Reader.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\Code128Reader.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\Code39Reader.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\Code39Reader.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\Code93Reader.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\Code93Reader.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\EAN13Reader.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\EAN13Reader.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\oned\EAN8Reader.cpp</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\algorithm</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\sstream</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ErrorCorrectionLevel.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\HybridBinarizer.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\FastHybridBinarizer.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_cdc_core.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ReedSolomonDecoder.o</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery_sdio_sd.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_OTG_Driver\inc\usb_dcd_int.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\cdc\inc\usbd_cdc_core.h</file>
+      <file>$TOOLKIT_DIR$\lib\dlpp7M_tl_fc.a</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tlf.a</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\UPCEReader.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\fonts.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_syscfg.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ResultPointCallback.o</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h</file>
+      <file>$PROJ_DIR$\..\src\usb_mem\usbd_conf_mem.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ResultPointCallback.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_usr_com.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_desc_com.o</file>
+      <file>$PROJ_DIR$\..\src\usb_com\usb_conf.h</file>
+      <file>$PROJ_DIR$\..\src\usb_com\usbd_conf.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usb_bsp_com.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_usr_com.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usb_bsp_com.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\MultiFormatOneDReader.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\BitSource.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_it.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Mode.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Version.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\EAN8Reader.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\BitSource.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\DecoderResult.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ResultPoint.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_desc.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Binarizer.pbi</file>
+      <file>$PROJ_DIR$\..\src\usb_com\usbd_usr_com.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\GreyscaleLuminanceSource.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Exception.pbi</file>
+      <file>$PROJ_DIR$\..\inc\stm32f4xx_conf.h</file>
+      <file>$PROJ_DIR$\Discover-More\Exe\Project.bin</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_msc_data.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Code93Reader.o</file>
+      <file>$PROJ_DIR$\..\src\usblib\usbd_cdc_vcp.c</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Core\inc\usbd_ioreq.h</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_flash.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\MonochromeRectangleDetector.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\MonochromeRectangleDetector.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\dcmi_ov9655.o</file>
+      <file>$PROJ_DIR$\..\src\usblib\usb_bsp.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\bmp.pbi</file>
+      <file>$PROJ_DIR$\..\src\usblib\usbd_core.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\BitMatrix.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\BitSource.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\BitSource.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\CharacterSetECI.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\CharacterSetECI.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\Counted.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\DecoderResult.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\DecoderResult.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\DetectorResult.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\DetectorResult.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\FastHybridBinarizer.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\FastHybridBinarizer.h</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\GlobalHistogramBinarizer.cpp</file>
+      <file>$PROJ_DIR$\..\src\zxing\common\GlobalHistogramBinarizer.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ImageReaderSource.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\app.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\dcmi_ov9655.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_rcc.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\GreyscaleLuminanceSource.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\EAN8Reader.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_it.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\DataMask.o</file>
+      <file>$PROJ_DIR$\..\src\usb_flash\usb_conf.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\lcd_log.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\BitMatrixParser.pbi</file>
+      <file>$PROJ_DIR$\..\src\usblib\usb_dcd_int.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\StringUtils.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\IllegalArgumentException.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Code128Reader.pbi</file>
+      <file>$PROJ_DIR$\..\src\usblib\usbd_usr.c</file>
+      <file>$PROJ_DIR$\..\src\usblib\usbd_desc.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_desc.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4_discovery_lis302dl.pbi</file>
+      <file>$PROJ_DIR$\..\src\usblib\usb_dcd.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\diskio.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\FinderPatternFinder.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_iwdg.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usb_dcd.pbi</file>
+      <file>$PROJ_DIR$\..\src\usblib\usbd_desc.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\DetectorResult.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\GridSampler.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Exe\Project.out</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Code39Reader.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\cstdarg</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4_discovery_sdio_sd.pbi</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\ReedSolomonException.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\src\usb_com\usb_bsp_com.c</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\usbd_core.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_sdio.h</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\stm32f4xx_dma.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\UPCEReader.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\diskio.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\Result.o</file>
+      <file>$PROJ_DIR$\Discover-More\Obj\DecodedBitStreamParser.o</file>
+      <file>$PROJ_DIR$\..\src\usblib\usbd_cdc_core.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_mem\usbd_usr_mem.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 405 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 269 365 65 552 367 411 166 638 569</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_flash\app.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 609</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 404 585 256 238 616 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 475 406 403 208 430 131 151</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 404 585 256 238 616 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 475 406 403 208 430 131 151</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usblib\usb_dcd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 631</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 77</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 590</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 590</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usblib\usb_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 414</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 590</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 590</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_flash\usbd_desc_flash.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 121</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 439</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 269 365 5 239 162 277 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 269 365 5 239 162 277 195</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usblib\usb_bsp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 339</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 407</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 257 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 448 361 644 173 58 56 459 356 555 590 51 343 204 387 365 395 627 269 650 168</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 257 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 448 361 644 173 58 56 459 356 555 590 51 343 204 387 365 395 627 269 650 168</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_com\usbd_desc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 575</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 625</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 475 406 403 616 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 256 238 252 276 561</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_com\usb_bsp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 339</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 407</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 161 403 616 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 561 560</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_com\usbd_usr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 472</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 209</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 131 475 406 403 616 208 430 256 238 585 367 366 166 638 569 65 552</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_flash\usb_bsp_flash.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 503</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 590 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 162 277 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 590 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 162 277 195</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_mem\usbd_desc_mem.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 485</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 269 365 154 239 556</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usblib\usbd_cdc_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 542</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 222</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 650 168 269 365 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 632 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 650 168 269 365 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 632 239</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\qrcode\detector\AlignmentPattern.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 215</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 469</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 134 422 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 243 245</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 134 422 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 243 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\qrcode\detector\AlignmentPatternFinder.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 261</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 444</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 136 134 422 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 243 245 594 379 280 273 47 462 241 242 335 492 244 377 279 417</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 136 134 422 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 243 245 594 379 280 273 47 462 241 242 335 492 244 377 279 417</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\qrcode\detector\Detector.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 440</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 344</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 138 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 603 377 243 245 594 379 280 273 47 462 241 242 335 492 244 422 134 337 279 144 140 141 136 181 175 417 331 490 183 308 538</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 138 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 603 377 243 245 594 379 280 273 47 462 241 242 335 492 244 422 134 337 279 144 140 141 136 181 175 417 331 490 183 308 538</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\qrcode\detector\FinderPattern.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 456</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 140 422 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 243 245</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 140 422 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 243 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\qrcode\detector\FinderPatternFinder.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 629</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 487</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 537 245 91 484 211 593 7 54 159 164 360 130 638 92 86 87 88 89 93 103 79 94 95 104 166 569 84 393 263 96 97 141 140 422 599 464 465 466 467 480 249 433 423 98 105 108 109 85 90 36 35 34 37 38 39 40 41 505 506 117 174 507 508 243 144 377 594 379 280 273 47 462 241 242 335 492 244 279 417 490 183</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 537 245 91 484 211 593 7 54 159 164 360 130 638 92 86 87 88 89 93 103 79 94 95 104 166 569 84 393 263 96 97 141 140 422 599 464 465 466 467 480 249 433 423 98 105 108 109 85 90 36 35 34 37 38 39 40 41 505 506 117 174 507 508 243 144 377 594 379 280 273 47 462 241 242 335 492 244 279 417 490 183</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\qrcode\detector\FinderPatternInfo.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 193</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 234</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 144 140 422 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 243 245 377</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 144 140 422 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 243 245 377</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\qrcode\ErrorCorrectionLevel.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 424</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 539</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 175 417 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 175 417 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_com\usbd_desc_com.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 282</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 559</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 475 406 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 256 238 148 276 146 477</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 475 406 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 256 238 148 276 146 477</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_flash\usb_bsp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 339</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 407</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 161 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 238</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 161 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 238</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_flash\usbd_desc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 575</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 625</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 475 406 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 256 238 151 276</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 475 406 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 256 238 151 276</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_flash\usbd_storage_msd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 80</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 431 256 238 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 544</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 431 256 238 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 544</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_flash\usbd_usr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 472</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 209</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 131 475 406 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 256 238 65 552 367 366 166 638 569</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 131 475 406 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 256 238 65 552 367 366 166 638 569</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_mem\app.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 404 168 269 365 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 405 154 156 195</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_mem\usbd_desc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 575</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 625</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 269 365 346 239</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\qrcode\FormatInformation.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 160</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 177 175 417 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 599 464 462 241 242</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 177 175 417 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 599 464 462 241 242</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\qrcode\QRCodeReader.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 220</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 391</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 179 416 187 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 185 497 419 523 422 183 490 279 521 375 372 371 601 138 603 134 337 144 140</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 179 416 187 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 185 497 419 523 422 183 490 279 521 375 372 371 601 138 603 134 337 144 140</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\qrcode\Version.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 446</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 570</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 181 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 175 417 492 244 594 379 280 273 47 462 241 242 335 377 243 245 177 494 637 486</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 181 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 175 417 492 244 594 379 280 273 47 462 241 242 335 377 243 245 177 494 637 486</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\BarcodeFormat.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 169</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 197</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 183</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 183</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\Binarizer.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 576</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 426</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 185 497 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 379 280 273 47 462 241 242 335 492 244 594</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 185 497 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 379 280 273 47 462 241 242 335 492 244 594</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\BinaryBitmap.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 427</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 187 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 185 497</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 187 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 185 497</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\ChecksumException.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 158</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 488 417 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 488 417 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usblib\usbd_ioreq.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 268</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 168 269 365 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 168 269 365 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\src\usbd_msc_bot.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 110 475 406 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 256 238 33 585 431</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 110 475 406 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 256 238 33 585 431</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\cdc\src\usbd_cdc_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 542</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 222</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 146 477 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 548 585 256 238 616 475 406 403 208 430 148 276</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 146 477 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 548 585 256 238 616 475 406 403 208 430 148 276</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\src\usbd_msc_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 167</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 431 256 238 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 404 585 475 406 403 208 430 110 276</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 431 256 238 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 404 585 475 406 403 208 430 110 276</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\src\usbd_msc_data.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 271</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 582</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 113 238 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 113 238 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\ResultPointCallback.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 557</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 554</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 279 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 279 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\src\usbd_msc_scsi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 409</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 110 475 406 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 256 238 33 431 113</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 110 475 406 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 256 238 33 431 113</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Core\src\usbd_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 643</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 254</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 475 406 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 256 238 276 585 547 161</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 475 406 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 256 238 276 585 547 161</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Core\src\usbd_ioreq.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 268</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 585 256 238 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 475 406 403 208 430</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 585 256 238 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 475 406 403 208 430</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery_sdio_sd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 639</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 425</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 544 195 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 544 195 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 451</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 129</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 555 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 555 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dcmi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 203</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 101 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 101 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_dma.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 194</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 645</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 102 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 102 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_exti.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 390</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 502 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 502 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_fsmc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 358</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 275</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 218 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 218 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 205</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 410</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 22 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 22 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_i2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 382</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 389</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 447 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 447 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 266</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 611</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 257 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 257 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_sdio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 157</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 274</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 644 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 173 58 56 459 356 555</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 644 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 173 58 56 459 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 213</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 460</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 173 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 58 56 459 356 555</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 173 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 58 56 459 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_syscfg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 553</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 124</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 56 459 356 555</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 58 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 56 459 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_tim.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 262</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 258</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 459 356 555</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 56 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 459 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_usart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 170</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 459 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 356 555</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 459 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\bmp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 591</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 454</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 166 211 593 7 54 159 164 360 638 569 393 263 65 353 383 273 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 552 442 452 470 111</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 166 211 593 7 54 159 164 360 638 569 393 263 65 353 383 273 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 552 442 452 470 111</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\dcmi_ov9655.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 610</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 589</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 114 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 111</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 114 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 111</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\image.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 388</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\ImageReaderSource.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 608</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 224</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 303 497 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 594 379 280 273 47 462 241 242 335 492 244 83 538 537</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 303 497 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 594 379 280 273 47 462 241 242 335 492 244 83 538 537</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 457</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 65 552 216 111 267 114 393 638 263</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 65 552 216 111 267 114 393 638 263</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\main_bridge.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 55</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 273 211 593 7 54 159 164 360 47 538 244 465 466 467 480 103 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 303 497 599 464 377 243 245 594 379 280 462 241 242 335 492 605 185 333 607 499 416 187 419 523 422 183 490 279 417 65 353 383 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 552</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 273 211 593 7 54 159 164 360 47 538 244 465 466 467 480 103 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 303 497 599 464 377 243 245 594 379 280 462 241 242 335 492 605 185 333 607 499 416 187 419 523 422 183 490 279 417 65 353 383 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 552</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\stm32f4xx_it.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 567</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 614</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 112 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 403 616 195 208 430 475 406 256 238 477 544</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 112 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 403 616 195 208 430 475 406 256 238 477 544</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\system_stm32f4xx.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 198</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\detector\MonochromeRectangleDetector.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 588</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 587</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 500 417 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 310 243 245 422 599 464 594 379 280 273 47 462 241 242 335 377 538</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 500 417 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 310 243 245 422 599 464 594 379 280 273 47 462 241 242 335 377 538</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\detector\WhiteRectangleDetector.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 214</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 235</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 500 417 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 368 243 245 422 599 464 594 379 280 273 47 462 241 242 335 377 308 538</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 500 417 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 368 243 245 422 599 464 594 379 280 273 47 462 241 242 335 377 308 538</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\oned\ITFReader.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 272</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 126</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 314 320 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 322 417 494 500</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 314 320 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 322 417 494 500</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\oned\MultiFormatOneDReader.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 565</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 345</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 316 320 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 318 531 529 533 527 314 417 500</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 316 320 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 318 531 529 533 527 314 417 500</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\oned\MultiFormatUPCEANReader.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 350</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 82</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 318 320 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 535 509 312 511 324 322 417 500</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 318 320 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 535 509 312 511 324 322 417 500</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\oned\OneDReader.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 260</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 207</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 320 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 417 322 500</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 320 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 417 322 500</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\oned\OneDResultPoint.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 473</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 46</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 322 422 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 243 245</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 322 422 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 243 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\oned\UPCAReader.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 471</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 324 535 509 320 416 187 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 185 497 419 523 422 183 490 279 417</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 324 535 509 320 416 187 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 185 497 419 523 422 183 490 279 417</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\oned\UPCEANReader.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 348</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 509 320 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 322 417 500 494 488</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 509 320 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 322 417 500 494 488</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\GreyscaleLuminanceSource.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 578</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 612</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 327 497 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 329 335 492 244</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 327 497 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 329 335 492 244</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\GreyscaleRotatedLuminanceSource.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 342</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 163</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 329 497 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 335 492 244</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 329 497 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 335 492 244</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\GridSampler.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 634</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 199</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 331 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 337 417 538</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 331 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 337 417 538</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\HybridBinarizer.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 540</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 362</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 333 243 245 91 484 211 593 7 54 159 164 360 130 638 92 86 87 88 89 93 103 79 94 95 104 166 569 84 393 263 96 97 85 90 185 497 599 464 465 466 467 480 249 433 423 98 105 108 109 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 379 280 273 47 462 241 242 335 492 244 594 607</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 333 243 245 91 484 211 593 7 54 159 164 360 130 638 92 86 87 88 89 93 103 79 94 95 104 166 569 84 393 263 96 97 85 90 185 497 599 464 465 466 467 480 249 433 423 98 105 108 109 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 379 280 273 47 462 241 242 335 492 244 594 607</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\IllegalArgumentException.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 264</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 621</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 335 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 335 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\PerspectiveTransform.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 408</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 453</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 337 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 243 245</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 337 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 243 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\Str.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 352</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 523 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 464 599</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 523 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 464 599</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_mem\usbd_storage_msd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 431 269 365 156 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 544</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usblib\usb_dcd_int.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 384</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 357</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 619 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 461 650 168 269 365 395 405 632</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 619 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 461 650 168 269 365 395 405 632</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\lcd_log.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 251</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 617</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 367 366 166 211 593 7 54 159 164 360 638 569 65 353 383 273 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 552</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 367 366 166 211 593 7 54 159 164 360 638 569 65 353 383 273 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 552</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_flash\system_stm32f4xx.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 198</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 206</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\reedsolomon\GenericGF.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 190</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 371 243 245 599 372 377 335 492 244</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 371 243 245 599 372 377 335 492 244</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\reedsolomon\GenericGFPoly.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 474</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 221</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 372 243 245 377 599 371 335 492 244</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 372 243 245 377 599 371 335 492 244</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\reedsolomon\ReedSolomonDecoder.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 192</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 543</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 245 375 243 599 377 372 371 376 492 244 335 495 417</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 245 375 243 599 377 372 371 376 492 244 335 495 417</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\reedsolomon\ReedSolomonException.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 200</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 640</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 376 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 376 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\BitArray.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 171</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 379 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 335 492 244 377 243 245</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 379 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 335 492 244 377 243 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\BitArrayIO.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 237</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 379 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 335 492 244 377 243 245</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 379 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 335 492 244 377 243 245</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\BitMatrix.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 594 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 379 280 273 47 462 241 242 335 492 244 377 243 245 538</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 594 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 379 280 273 47 462 241 242 335 492 244 377 243 245 538</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usblib\usbd_req.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 210</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 239 269 365 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 168 632</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239 269 365 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 168 632</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_mem\usbd_usr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 472</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 209</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\CMSIS\Device\ST\STM32F4xx\Source\Templates\iar\startup_stm32f4xx.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 450</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Utilities\FatFs_vR0.08a\ff.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 265</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 259</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 442 452 470 202</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 442 452 470 202</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Utilities\FatFs_vR0.08a\diskio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 628</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 647</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 202 452 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 470 544 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 202 452 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 470 544 195</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 432</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 201</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 195 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 195 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery_lcd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 196</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 123</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 65 552 445</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 65 552 445</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Utilities\STM32F4-Discovery\stm32f4_discovery_lis302dl.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 626</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 216 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 216 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_flash\stm32fxxx_it.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 100</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 236</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 395 627 269 365 544 195</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\Result.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 648</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 419 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 599 464 523 422 183</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 419 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 599 464 523 422 183</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\ResultIO.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 240</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 349</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 419 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 599 464 523 422 183</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 419 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 599 464 523 422 183</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\ResultPoint.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 574</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 443</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 422 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 243 245 308</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 422 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 243 245 308</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_mem\usb_bsp_mem.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 347</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 556 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_mem\usb_bsp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 339</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 407</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_flash\usbd_usr_flash.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 415</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 191</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 552 367 366 166 638 569</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\src\usbd_storage_template.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 250</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 223</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 431 269 365</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 431 269 365</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_OTG_Driver\src\usb_dcd_int.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 384</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 357</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 547 406 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 547 406 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_com\usbd_cdc_vcp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 479 548 585 256 238 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 475 406 403 208 430 146 477</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 479 548 585 256 238 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 475 406 403 208 430 146 477</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Core\src\usbd_req.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 210</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 276 256 238 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 475 406 403 208 430 585 151</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 276 256 238 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 475 406 403 208 430 585 151</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_OTG_Driver\src\usb_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 414</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 161</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 161</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_OTG_Driver\src\usb_dcd.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 631</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 77</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 406 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 161</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 406 403 616 353 463 273 211 593 7 54 159 164 360 106 270 641 107 359 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 161</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\DecodeHints.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 212</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 436</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 490 183 279 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 335 492 244</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 490 183 279 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 335 492 244</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\Exception.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 579</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 492 244 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 492 244 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\FormatException.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 122</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 494 417 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 494 417 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\LuminanceSource.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 538 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 497 599 464 377 243 245 83 280 273 47 462 241 242 335 492</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 538 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 497 599 464 377 243 245 83 280 273 47 462 241 242 335 492</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\MultiFormatReader.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 429</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 499 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 179 521 375 372 371 601 318 320 316 417</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 499 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 179 521 375 372 371 601 318 320 316 417</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\Reader.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 217</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 416 187 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 185 497 419 523 422 183 490 279</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 416 187 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 185 497 419 523 422 183 490 279</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\oned\UPCEReader.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 551</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 646</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 511 509 320 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 417</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 511 509 320 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 417</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\qrcode\decoder\BitMatrixParser.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 618</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 441</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 513 417 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 599 464 379 280 273 47 462 241 242 335 377 243 245 181 175 177 517</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 513 417 492 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 599 464 379 280 273 47 462 241 242 335 377 243 245 181 175 177 517</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\qrcode\decoder\DataBlock.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 340</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 515 243 245 91 484 211 593 7 54 159 164 360 130 638 92 86 87 88 89 93 103 79 94 95 104 166 569 84 393 263 96 97 85 90 599 464 465 466 467 480 249 433 423 98 105 108 109 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 181 175 417 492 244 594 379 280 273 47 462 241 242 335</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 515 243 245 91 484 211 593 7 54 159 164 360 130 638 92 86 87 88 89 93 103 79 94 95 104 166 569 84 393 263 96 97 85 90 599 464 465 466 467 480 249 433 423 98 105 108 109 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 181 175 417 492 244 594 379 280 273 47 462 241 242 335</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\qrcode\decoder\DataMask.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 351</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 615</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 517 377 243 245 91 484 211 593 7 54 159 164 360 130 638 92 86 87 88 89 93 103 79 94 95 104 166 569 84 393 263 96 97 85 90 599 464 465 466 467 480 249 433 423 98 105 108 109 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 517 377 243 245 91 484 211 593 7 54 159 164 360 130 638 92 86 87 88 89 93 103 79 94 95 104 166 569 84 393 263 96 97 85 90 599 464 465 466 467 480 249 433 423 98 105 108 109 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\qrcode\decoder\DecodedBitStreamParser.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 253</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 649</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 520 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 538 246 247 248 245 132 599 464 181 175 417 492 594 379 280 273 47 462 241 242 335 377 243 596 601 523 598 490 183 279 494 525</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 520 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 538 246 247 248 245 132 599 464 181 175 417 492 594 379 280 273 47 462 241 242 335 377 243 596 601 523 598 490 183 279 494 525</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\qrcode\decoder\Decoder.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 219</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 521 375 245 91 484 211 593 7 54 159 164 360 130 638 92 86 87 88 89 93 103 79 94 95 104 166 569 84 393 263 96 97 243 85 90 599 464 465 466 467 480 249 433 423 98 105 108 109 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 372 371 601 244 523 594 379 280 273 47 462 241 242 335 492 513 417 181 175 177 515 520 538 246 247 248 132 596 598 490 183 279 488 376</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 521 375 245 91 484 211 593 7 54 159 164 360 130 638 92 86 87 88 89 93 103 79 94 95 104 166 569 84 393 263 96 97 243 85 90 599 464 465 466 467 480 249 433 423 98 105 108 109 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 372 371 601 244 523 594 379 280 273 47 462 241 242 335 492 513 417 181 175 177 515 520 538 246 247 248 132 596 598 490 183 279 488 376</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\qrcode\decoder\Mode.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 455</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 568</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 132 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 181 175 417 492 244 594 379 335 377 243 245 538</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 132 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 181 175 417 492 244 594 379 335 377 243 245 538</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\StringUtils.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 620</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 355</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 525 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 246 247 248 245 490 183 279 599 464</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 525 244 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 246 247 248 245 490 183 279 599 464</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\oned\CodaBarReader.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 119</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 527 320 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 322 417 500 494 488 538</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 527 320 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 322 417 500 494 488 538</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\oned\Code128Reader.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 622</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 125</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 529 320 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 322 417 500 494 488 538</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 280 273 211 593 7 54 159 164 360 47 462 423 241 242 103 79 249 433 98 96 97 638 87 88 89 529 320 416 187 599 464 465 466 467 480 104 166 569 484 130 105 108 109 84 393 263 85 86 90 91 92 93 94 95 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 335 492 244 377 243 245 185 497 419 523 422 183 490 279 322 417 500 494 488 538</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\oned\Code39Reader.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 127</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 636</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 531 320 416 187 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 185 497 419 523 422 183 490 279 322 417 500 488</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 531 320 416 187 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 185 497 419 523 422 183 490 279 322 417 500 488</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\oned\Code93Reader.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 583</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 533 320 416 187 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 185 497 419 523 422 183 490 279 322 417 494 500 488</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 533 320 416 187 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 185 497 419 523 422 183 490 279 322 417 494 500 488</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\oned\EAN13Reader.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 255</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 394</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 535 509 320 416 187 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 185 497 419 523 422 183 490 279 500 417</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 535 509 320 416 187 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 185 497 419 523 422 183 490 279 500 417</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\oned\EAN8Reader.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 571</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 613</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 312 509 320 416 187 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 185 497 419 523 422 183 490 279 417</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 312 509 320 416 187 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 594 379 280 273 47 462 241 242 335 492 244 377 243 245 185 497 419 523 422 183 490 279 417</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 116 635</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_com\usbd_usr_com.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 563</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 558</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 131 475 406 403 616 208 430 256 238 585 367 366 166 638 569 65 552</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 131 475 406 403 616 208 430 256 238 585 367 468 166 638 569 65 552</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usblib\usbd_cdc_vcp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 461 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 650 168 269 365 395 627 51 343 204 387 405 632</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 461 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 650 168 269 365 395 627 51 343 204 387 405 632</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usblib\usbd_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 643</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 254</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 269 365 239 168 619 590</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 269 365 239 168 619 590</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\BitSource.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 572</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 566</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 596 377 243 245 91 484 211 593 7 54 159 164 360 130 638 92 86 87 88 89 93 103 79 94 95 104 166 569 84 393 263 96 97 85 90 599 464 465 466 467 480 249 433 423 98 105 108 109 36 35 34 37 38 39 40 41 505 506 117 174 507 508 538 244 335 492</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 596 377 243 245 91 484 211 593 7 54 159 164 360 130 638 92 86 87 88 89 93 103 79 94 95 104 166 569 84 393 263 96 97 85 90 599 464 465 466 467 480 249 433 423 98 105 108 109 36 35 34 37 38 39 40 41 505 506 117 174 507 508 538 244 335 492</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\CharacterSetECI.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 118</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 598 246 247 248 484 211 593 7 54 159 164 360 130 638 90 91 92 86 87 88 89 93 103 79 94 95 104 166 569 84 393 263 96 97 245 85 490 183 279 599 464 465 466 467 480 249 433 423 98 105 108 109 36 35 34 37 38 39 40 41 505 506 117 174 507 508 335 492 244 494 417</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 598 246 247 248 484 211 593 7 54 159 164 360 130 638 90 91 92 86 87 88 89 93 103 79 94 95 104 166 569 84 393 263 96 97 245 85 490 183 279 599 464 465 466 467 480 249 433 423 98 105 108 109 36 35 34 37 38 39 40 41 505 506 117 174 507 508 335 492 244 494 417</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\DecoderResult.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 386</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 573</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 601 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 244 523</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 601 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 244 523</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\DetectorResult.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 633</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 603 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 594 379 280 273 47 462 241 242 335 492 244 422</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 603 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 594 379 280 273 47 462 241 242 335 492 244 422</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\FastHybridBinarizer.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 120</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 541</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 393 211 593 7 54 159 164 360 638 263 377 243 245 91 484 130 92 86 87 88 89 93 103 79 94 95 104 166 569 84 96 97 85 90 599 464 465 466 467 480 249 433 423 98 105 108 109 36 35 34 37 38 39 40 41 505 506 117 174 507 508 605 273 497 594 379 280 47 462 241 242 335 492 244 185</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 393 211 593 7 54 159 164 360 638 263 377 243 245 91 484 130 92 86 87 88 89 93 103 79 94 95 104 166 569 84 96 97 85 90 599 464 465 466 467 480 249 433 423 98 105 108 109 36 35 34 37 38 39 40 41 505 506 117 174 507 508 605 273 497 594 379 280 47 462 241 242 335 492 244 185</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\zxing\common\GlobalHistogramBinarizer.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 449</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 225</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 607 185 497 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 379 280 273 47 462 241 242 335 492 244 594 500 417</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 607 185 497 599 464 465 466 467 480 103 211 593 7 54 159 164 360 79 249 433 423 98 104 166 638 569 484 130 105 108 109 84 393 263 85 86 87 88 89 90 91 92 93 94 95 96 97 36 35 34 37 38 39 40 41 505 506 117 174 507 508 377 243 245 379 280 273 47 462 241 242 335 492 244 594 500 417</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usblib\usbd_usr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 472</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 209</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 405 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 269 365 168</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 405 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 269 365 168</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usblib\usbd_desc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 575</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 625</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 269 365 632 239</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 395 627 51 343 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 204 387 269 365 632 239</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Discover-More\Exe\Project.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 116</file>
+        </tool>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 581</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 229 469 444 197 426 15 171 237 17 441 566 118 158 13 125 636 583 340 615 436 649 19 573 344 633 394 613 539 14 541 57 487 234 26 160 190 221 225 612 163 199 362 126 621 224 9 568 587 345 429 82 207 46 453 391 66 543 640 648 349 443 554 352 355 471 348 646 570 235 454 589 647 259 388 457 55 129 450 201 123 11 425 203 645 21 275 410 389 614 611 274 460 124 258 4 206 227 546 545 549 228 550</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\src\usb_com\usb_bsp_com.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 562</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 564</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 161 403 616 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 146 477</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 161 403 616 353 383 273 211 593 7 54 159 164 360 128 270 641 172 504 78 580 24 428 413 0 412 18 101 102 502 586 218 226 22 447 630 61 257 448 361 644 173 58 56 459 356 555 195 208 430 146 477</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\usb_mem\usbd_usr_mem.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\usb_com\usbd_desc.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\usb_com\usb_bsp.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\usb_com\usbd_usr.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\usb_com\usbd_desc_com.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\usb_flash\usb_bsp.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\usb_flash\usbd_desc.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\usb_flash\usbd_storage_msd.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\usb_flash\usbd_usr.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\src\usbd_msc_bot.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\cdc\src\usbd_cdc_core.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\src\usbd_msc_core.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\src\usbd_msc_data.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\src\usbd_msc_scsi.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Core\src\usbd_core.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Core\src\usbd_ioreq.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\usb_mem\usbd_storage_msd.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\usb_mem\usb_bsp_mem.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\usb_flash\usbd_usr_flash.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Class\msc\src\usbd_storage_template.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_OTG_Driver\src\usb_dcd_int.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\src\usb_com\usbd_cdc_vcp.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_Device_Library\Core\src\usbd_req.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_OTG_Driver\src\usb_core.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\Libraries\STM32_USB_OTG_Driver\src\usb_dcd.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
